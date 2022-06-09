@@ -1,1 +1,6 @@
-Anotações uteis do curso
+Anotações uteis do curso estão a todo vapor1
+
+Git clone ‘link do repositório – clona o repositório para o meu workspace local
+“Git add .” serve para adicionar as alterações que eu fiz ao meu workspace local
+“git commit -m   “texto sobre o commit” ”    - esse comando diz que o meu código ou arquivo estão quase prontos para ir para a nuvem.
+“git push origin main“ – esse comando serve para mandar tudo para a nuvem
